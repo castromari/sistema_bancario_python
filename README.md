@@ -2,6 +2,7 @@
 
 Bem-vindo ao desafio **Sistema Bancario com Python** do bootcamp **Santander 2025 - Back-end Python**!
 Neste desafio, exploramos conceitos fundamentais de Python: Tipos de Operadores, estruturas condicionais, estruturas de repetição e manipulação de strings.
+No segundo desafio, é a continuação do sistema bancario acrescentando funções.
 
 ## 📜 Descrição
 
